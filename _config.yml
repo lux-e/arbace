@@ -1,8 +1,12 @@
-title: Just the Docs Template
+title: Arbace
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://porcelain-sailor.github.io
+Arbace:
+  custom_css:
+    - "assets/css/_custom.scss"
+
+url: https://arbace.github.io
 
 aux_links:
-  Template Repository: https://github.com/lux-e/porcelain-sailor
+  Template Repository: https://github.com/lux-e/arbace
