@@ -6,3 +6,10 @@ $nav-background-color: #fce4ec;
 $nav-border-color: #f8bbd0;
 $nav-text-color: #4a2e38;
 $search-background-color: #fdf0f5;
+
+---
+---
+
+@import "just-the-docs"; // importa il tema
+@import "custom";        // importa il tuo file personalizzato
+
