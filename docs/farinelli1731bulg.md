@@ -1,3 +1,7 @@
+---
+title: Farinelli to Bulgarelli, 1731 (EN)
+layout: home
+---
 
 Madama,
 I received this morning, not only the letters of the present week, but of the last, which have relieved my mind from the apprehensions and fears with which I was assailed, that some pious fool had been beforehand with me at the post-office, in order to save me the trouble of reading them. I am much obliged to you for the ample accounts you have given me of the opera and plays, and rejoice that our Ciullo (clown) has done himself honour. I hope that the post in which His Holyness has ingaged me, will not be unprofitable. Tell me what you think of it, and give him my best wishes. 
