@@ -1,12 +1,8 @@
- 
 ---
 title: Due braccia e una testa - private auto translation
 layout: home
 ---
  
-
- 
-
 
 
 Due braccia e una testa
